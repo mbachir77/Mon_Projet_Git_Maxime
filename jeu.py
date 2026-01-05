@@ -1,1 +1,7 @@
+
 # Système de jeu principal
+
+# Algorithme de calcul v1
+
+print("Ceci est une nouvelle fonction")
+
